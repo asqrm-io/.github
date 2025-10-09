@@ -1,12 +1,10 @@
 # QRM
 
-🛡️ **QRM** QRM is a self-hosted, open-source, all-in-one core process manager for Node.js, TypeScript (npm/bun), Go, Python, Rust, and more, serving as an alternative to PM2 or systemd. Written in Zig, it is designed to be fast and lightweight for both development and production environments, and comes with a modern, intuitive web-based UI for easy process management and monitoring.
+🛡️ **QRM** is a self-hosted, open-source, all-in-one core process manager for Node.js, TypeScript (npm/bun), Go, Python, Rust, and more, serving as an alternative to PM2 or systemd. Written in Zig, it is designed to be fast and lightweight for both development and production environments, and comes with a modern, intuitive web-based UI for easy process management and monitoring.
 
 ---
 
 ## 🚀 Core Features
-
-A few of our main repositories:
 
 ### QRM aims to be the fastest, simplest option for development and lightweight production use. 
 - Simple PM2-like CLI interface - Automatic logging to logs/<name>.log

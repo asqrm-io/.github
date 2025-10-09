@@ -26,4 +26,4 @@ For security-related concerns, refer to our **SECURITY.md** file in each project
 
 ---
 
-🌐 **Learn more at [qrm.devno.dev](https://qrm.devno.dev)**
+🌐 **Learn more at [qrm.deno.dev](https://qrm.deno.dev)**
